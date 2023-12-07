@@ -1,0 +1,39 @@
+Usuário adicionado à biblioteca: Joao
+Usuário adicionado à biblioteca: Maria
+Usuário adicionado à biblioteca: Carlos
+Livro adicionado à biblioteca: 1984
+Livro adicionado à biblioteca: O Senhor dos Anéis
+Livro adicionado à biblioteca: Java: Como Programar
+Livro adicionado à biblioteca: Fundamentos de Redes de Computadores
+Livro emprestado para Joao
+Livro emprestado para Maria
+Livro emprestado para Carlos
+
+Livros na Biblioteca:
+Título: Fundamentos de Redes de Computadores Autor: Andrew Tanenbaum ID: 9788588639240
+
+Usuários da Biblioteca:
+Nome: Joao, ID: 1234
+Nome: Maria, ID: 5678
+Nome: Carlos, ID: 91011
+
+Empréstimos ativos:
+Livro: 1984, Usuário: Joao
+Livro: O Senhor dos Anéis, Usuário: Maria
+Livro: Java: Como Programar, Usuário: Carlos
+
+Devolução do Livro: 9788576052891 Carlos
+
+Livro devolvido com sucesso.
+Livros na Biblioteca:
+Título: Fundamentos de Redes de Computadores Autor: Andrew Tanenbaum ID: 9788588639240
+Título: Java: Como Programar Autor: Paul Deitel ID: 9788576052891
+
+Usuários da Biblioteca:
+Nome: Joao, ID: 1234
+Nome: Maria, ID: 5678
+Nome: Carlos, ID: 91011
+
+Empréstimos ativos:
+Livro: 1984, Usuário: Joao
+Livro: O Senhor dos Anéis, Usuário: Maria

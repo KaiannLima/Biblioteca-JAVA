@@ -1,0 +1,4 @@
+1984,George Orwell,9780451524935,fisico
+O Senhor dos Anéis,J.R.R. Tolkien,9780345339706,fisico
+Java: Como Programar,Paul Deitel,9788576052891,ebook
+Fundamentos de Redes de Computadores,Andrew Tanenbaum,9788588639240,ebook
