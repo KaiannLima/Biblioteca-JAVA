@@ -1,3 +1,4 @@
-# Sistema de Biblioteca - Trabalho de POO
+# Sistema de Biblioteca 
 
-Um sistema desenvolvido para gerenciamento de usuários e livros, para a disciplina de Programação Orientada a Objetos (POO).
+Um controle de dados desenvolvido para o gerenciamento de usuários, livros, aluguel e devolução.
+Um desafio básico para o treinamento de classes, métodos e estrutura inicial de orientação a objetos. 
